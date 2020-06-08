@@ -62,3 +62,10 @@ After Creating Database,
 10. Then, create a new account by clicking on register button
 
 
+Dependency Involved:
+1. Bootstrap library like jquery, bootsrapmin.css, bootstrapgrid.css, popper.js
+2. Fonts like, Font awesome, Gooogle fonts, google api
+3. database like, sql etc.
+4. Some CDNs.
+
+Note: All the dependencies are already installed and loaded into the folders.
